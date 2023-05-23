@@ -11,7 +11,7 @@
 ## Навыки и технологии:
 
 `Jira`, `qase.io`, `PostgreSQL`, `Postman`, `Swagger`, `Mockoon`, `Trello`,
-`SoapUI`, `Git`, `Curl', `Chrome DevTools`.
+`SoapUI`, `Git`, `Curl`, `Chrome DevTools`.
 
 ## Проекты.
 
