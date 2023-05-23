@@ -36,6 +36,6 @@ Login: zubo-m@mail.ru / Password - D!3C#4jiz
 
 В [запросах](https://drive.google.com/file/d/1hdLjNLmSs3NztPN62SGzR5DIpwZ59rLw/view?usp=sharing) оформлялись через [Postman](https://www.postman.com/).
 
-![Image](C:\Users\zubo-\Documents\GitHub\Pictures\YaWweather1.jpg)
+![YaWweather1](https://github.com/MikhailZubo/tester-7months/assets/128060079/c6f91e8f-d2cd-47b8-aba8-f55972c01797)
 
 https://drive.google.com/file/d/1iYH8sNeRO6xu1lb9AQ1h1x1eIASeDQvH/view?usp=sharing
