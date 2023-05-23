@@ -25,6 +25,7 @@
 
 Основной задачей было проверить требование заказчиков на выполнения определенных задач.
 
+
 Ссылка на описание проекта и работы над ним [здесь](https://mikhailzubo.atlassian.net/l/cp/pw9Zkc1f).
 
 Login: zubo-m@mail.ru / Password - D!3C#4jiz
@@ -34,8 +35,8 @@ Login: zubo-m@mail.ru / Password - D!3C#4jiz
 
 Требовалось создать запросы на тестирование погоды в определенном месте, а текже создать негативные запросы для проверки правильности работы системы. Также требовалась проверка прохождения теста и сравнение данных запроса с ответом.
 
-В [запросах](https://drive.google.com/file/d/1hdLjNLmSs3NztPN62SGzR5DIpwZ59rLw/view?usp=sharing) оформлялись через [Postman](https://www.postman.com/).
+[Запросы](https://drive.google.com/file/d/1hdLjNLmSs3NztPN62SGzR5DIpwZ59rLw/view?usp=sharing) оформлялись через [Postman](https://www.postman.com/).
 
 ![YaWweather1](https://github.com/MikhailZubo/tester-7months/assets/128060079/c6f91e8f-d2cd-47b8-aba8-f55972c01797)
 
-https://drive.google.com/file/d/1iYH8sNeRO6xu1lb9AQ1h1x1eIASeDQvH/view?usp=sharing
+![YaWweather2](https://github.com/MikhailZubo/tester-7months/assets/128060079/8216eb40-6f1f-410e-9807-e9360c20111c)
