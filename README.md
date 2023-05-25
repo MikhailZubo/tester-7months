@@ -47,7 +47,7 @@
 
 Ссылка на подробное описание проекта и работы над ним [здесь](https://mikhailzubo.atlassian.net/l/cp/pw9Zkc1f).
 
-Login: zubo-m@mail.ru / Password - D!3C#4jiz
+Login: zubo-m@mail.ru / Password - 
 
 
 ### Тестирование портала Яндекс.Погода
