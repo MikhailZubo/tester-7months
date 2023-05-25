@@ -27,7 +27,7 @@
 
 ![schedule1](https://github.com/MikhailZubo/tester-7months/assets/128060079/b94b423d-03a6-435a-9b02-b7ac49e1f5ce)
 
-![2023-05-23_16-33-24](https://github.com/MikhailZubo/tester-7months/assets/128060079/28dd2124-d0bb-40ec-960e-dea4c6527dbb)
+![schedule2](https://github.com/MikhailZubo/tester-7months/assets/128060079/7e718398-a315-4a5f-92b8-be3fcc3fb2be)
 
 
 Ссылка на описание проекта и работы над ним [здесь](https://mikhailzubo.atlassian.net/l/cp/pw9Zkc1f).
