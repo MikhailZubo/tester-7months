@@ -69,6 +69,8 @@ Login: zubo-m@mail.ru / Password - D!3C#4jiz
 
 Изучались навыки создания таблиц по вводным данным и создания запросов и подзапросов на получение информации из них в pgAdmin PostgreSQL.
 
+![2023-05-25_19-40-50](https://github.com/MikhailZubo/tester-7months/assets/128060079/e1847fc6-8919-4bc3-a850-d3fc6c1689af)
+
 Ниже находится файл с заданием
 [задание для теста.docx](https://github.com/MikhailZubo/tester-7months/files/11566745/default.docx)
 
