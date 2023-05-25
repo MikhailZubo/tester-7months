@@ -25,7 +25,7 @@
 
 Основной задачей было проверить требование заказчиков на выполнения определенных задач.
 
-![schedule1](https://github.com/MikhailZubo/tester-7months/assets/128060079/ec9aa128-d997-42a2-90e6-b854555591d1)
+![schedule1](https://github.com/MikhailZubo/tester-7months/assets/128060079/b94b423d-03a6-435a-9b02-b7ac49e1f5ce)
 
 ![2023-05-23_16-33-24](https://github.com/MikhailZubo/tester-7months/assets/128060079/28dd2124-d0bb-40ec-960e-dea4c6527dbb)
 
