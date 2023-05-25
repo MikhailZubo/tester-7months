@@ -70,7 +70,7 @@ Login: zubo-m@mail.ru / Password - D!3C#4jiz
 
 [задание для теста.docx](https://github.com/MikhailZubo/tester-7months/files/11566745/default.docx)
 
-Здесь таблица и решения в формате DOCX
+Здесь таблица и решения в формате DOCX [test.docx](https://github.com/MikhailZubo/tester-7months/files/11566767/test.docx)
 и в формате SQL 
 
 
