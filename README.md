@@ -43,4 +43,4 @@ Login: zubo-m@mail.ru / Password - D!3C#4jiz
 
 ![YaWweather1](https://github.com/MikhailZubo/tester-7months/assets/128060079/54ec388d-a8d8-4165-9259-9687b459c1a7)
 
-![YaWweather2](https://github.com/MikhailZubo/tester-7months/assets/128060079/8216eb40-6f1f-410e-9807-e9360c20111c)
+![YaWweather2](https://github.com/MikhailZubo/tester-7months/assets/128060079/7c92d654-58ab-4d2b-9a5f-4683e29875d8)
