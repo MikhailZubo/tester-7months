@@ -66,12 +66,15 @@ Login: zubo-m@mail.ru / Password - D!3C#4jiz
 ### SQL запросы
 
 Одним из этапов обучения была работа по созданию SQL запросов к создаваемым базам данным.
-По вводным данным создавал таблицы в pgAdmin и создавались запросы по заданию.
 
+Изучались навыки создания таблиц по вводным данным и создания запросов и подзапросов на получение информации из них в pgAdmin PostgreSQL.
+
+Ниже находится файл с заданием
 [задание для теста.docx](https://github.com/MikhailZubo/tester-7months/files/11566745/default.docx)
 
-Здесь таблица и решения в формате DOCX [test.docx](https://github.com/MikhailZubo/tester-7months/files/11566767/test.docx)
-и в формате SQL 
+А здесь таблица и решение в формате DOCX [test.docx](https://github.com/MikhailZubo/tester-7months/files/11566767/test.docx)
+и zip-файл в формате SQL [test sql.zip](https://github.com/MikhailZubo/tester-7months/files/11567192/test.sql.zip)
+
 
 
 
